@@ -1,3 +1,29 @@
+
+# Project 1
+
+## Overview
+
+Let's start out with something fun - **a game!**
+
+Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** -- since you've already gotten your feet wet with Tic Tac Toe, it's up to you to come up with a fun and interesting game to build.
+
+**You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
+
+## Technical Requirements
+
+Your app must:
+
+* **Display a game in the browser**
+* **Switch turns** between two players, or have the user play the computer \(AI or obstacles\)
+* **Design logic for winning** & **visually display which player won**
+* **Include separate HTML / CSS / JavaScript files**
+* Stick with **KISS \(Keep It Simple Stupid\)** and **DRY \(Don't Repeat Yourself\)** principles
+* Use **Javascript** for **DOM manipulation**
+* **Deploy your game online**, where the rest of the world can access it\*\*
+* Use **semantic markup** for HTML and CSS \(adhere to best practices\)
+
+\*\*We will be covering deployment before the end of the project.
+
 ## Necessary Deliverables
 
 * A **working game, built by you**, hosted somewhere on the internet
