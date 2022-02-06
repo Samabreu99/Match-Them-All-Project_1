@@ -1,7 +1,5 @@
 # Project 1
 
-## Project 1
-
 ## Example Projects
 
 * [Mastermind (DOM)](https://wonkatin.github.io) - Sarah Marie Coogan, SEIR 125
